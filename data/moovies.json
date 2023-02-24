@@ -4,7 +4,7 @@
     "Title": "Avatar",
     "Year": "2009",
     "Released": "18 Dec 2009",
-    "Runtime": "162 min",
+    "Runtime": "2 heures et 42 min",
     "Genre": "Action, Adventure, Fantasy",
     "Director": "James Cameron",
     "Writer": "James Cameron",
@@ -29,7 +29,7 @@
     "Title": "I Am Legend",
     "Year": "2007",
     "Released": "14 Dec 2007",
-    "Runtime": "101 min",
+    "Runtime": "1 heure 41 min",
     "Genre": "Drama, Horror, Sci-Fi",
     "Director": "Francis Lawrence",
     "Writer": "Mark Protosevich (screenplay), Akiva Goldsman (screenplay), Richard Matheson (novel), John William Corrington, Joyce Hooper Corrington",
@@ -52,6 +52,7 @@
   {
     "Title": "300",
     "Year": "2006",
+    "Runtime": "1 heure et 55 min",
     "Genre": "Action, Drama, Fantasy",
     "Director": "Zack Snyder",
     "Writer": "Zack Snyder (screenplay), Kurt Johnstad (screenplay), Michael Gordon (screenplay), Frank Miller (graphic novel), Lynn Varley (graphic novel)",
@@ -74,7 +75,7 @@
     "Title": "The Avengers",
     "Year": "2012",
     "Released": "04 May 2012",
-    "Runtime": "143 min",
+    "Runtime": "2 heures 23 min",
     "Genre": "Action, Sci-Fi, Thriller",
     "Director": "Joss Whedon",
     "Writer": "Joss Whedon (screenplay), Zak Penn (story), Joss Whedon (story)",
@@ -99,6 +100,7 @@
     "Title": "The Wolf of Wall Street",
     "Year": "2013",
     "Genre": "Biography, Comedy, Crime",
+    "Runtime": "2 heures et 59 min",
     "Director": "Martin Scorsese",
     "Writer": "Terence Winter (screenplay), Jordan Belfort (book)",
     "Actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey",
@@ -122,7 +124,7 @@
     "Title": "Interstellar",
     "Year": "2014",
     "Released": "07 Nov 2014",
-    "Runtime": "169 min",
+    "Runtime": "2 heures et 49 min",
     "Genre": "Adventure, Drama, Sci-Fi",
     "Director": "Christopher Nolan",
     "Writer": "Jonathan Nolan, Christopher Nolan",
@@ -285,7 +287,7 @@
     "Language": "English, Spanish",
     "Country": "USA",
     "Awards": "Won 2 Golden Globes. Another 132 wins & 218 nominations.",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR5,0,182,268_AL_.jpg",
+    "Poster": "https://fr.web.img5.acsta.net/pictures/19/06/18/12/11/3956503.jpg",
     "Metascore": "N/A",
     "imdbRating": "9.5",
     "Type": "series",
@@ -301,7 +303,7 @@
   {
     "Title": "Doctor Strange",
     "Year": "2016",
-    "Runtime": "115 min",
+    "Runtime": "1 heure et 55 min",
     "Genre": "Action, Adventure, Fantasy",
     "Director": "Scott Derrickson",
     "Writer": "Scott Derrickson (screenplay), C. Robert Cargill (screenplay), Jon Spaihts (story by), Scott Derrickson (story by), C. Robert Cargill (story by), Steve Ditko (comic book)",
@@ -322,7 +324,7 @@
   {
     "Title": "Rogue One: A Star Wars Story",
     "Year": "2016",
-    "Runtime": "133 min",
+    "Runtime": "2 heures et 13 min",
     "Genre": "Action, Adventure, Sci-Fi",
     "Director": "Gareth Edwards",
     "Writer": "Chris Weitz (screenplay), Tony Gilroy (screenplay), John Knoll (story), Gary Whitta (story), George Lucas (characters)",
@@ -345,7 +347,7 @@
   {
     "Title": "Assassin's Creed",
     "Year": "2016",
-    "Runtime": "115 min",
+    "Runtime": "1 heure et 55 min",
     "Genre": "Action, Adventure, Fantasy",
     "Director": "Justin Kurzel",
     "Writer": "Bill Collage (screenplay), Adam Cooper (screenplay), Michael Lesslie (screenplay)",
@@ -365,3 +367,6 @@
     ]
   }
 ]
+
+
+
